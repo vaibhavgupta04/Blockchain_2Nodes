@@ -1,1 +1,3 @@
-# Blockchain_2Nodes
+#Blockchain_Two_Node
+
+How to run-
